@@ -4,6 +4,7 @@
 #1. Instale o Python 3.0 no seu computador.
 
 #2.Escreva um algoritmo em Python que recebe seu nome e sobrenome, depois de ler as informações mostra na tela o sobrenome e depois o nome.
+
 nome = input("Digite seu nome: ")
 sobrenome = input("Digite seu sobrenome: ")
 print(sobrenome, nome)
@@ -15,7 +16,7 @@ print(sobrenome, nome)
 # de 2022. Por exemplo, supondo que a pessoa informe o ano de nascimento como 1986 seu
 # programa deverá imprimir:
 
-#Fulano de tal tem (ou terá) 34 anos
+#Fulano de tal tem (ou terá) 34 anos.
 
 nome = input("Digite seu nome: ")
 ano_nascimento = int(input("Digite o ano de seu nascimento: "))
